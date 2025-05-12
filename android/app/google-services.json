@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "181176335164",
+    "project_id": "treel-app-123",
+    "storage_bucket": "treel-app-123.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181176335164:android:f13aa685b393b8f6c57c39",
+        "android_client_info": {
+          "package_name": "com.example.tst"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0YMj5PJsi4mFASjYjTXDowny5OrtHxYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181176335164:android:8df5219ac41db55cc57c39",
+        "android_client_info": {
+          "package_name": "com.treelink.treelink"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0YMj5PJsi4mFASjYjTXDowny5OrtHxYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181176335164:android:8e82acaa5ea891d2c57c39",
+        "android_client_info": {
+          "package_name": "com.uni.treelink"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0YMj5PJsi4mFASjYjTXDowny5OrtHxYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
